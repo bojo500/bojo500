@@ -1,8 +1,5 @@
 # Mohamed Khaled
 
-
-<p align="center"><a href="https://github.com/bojo500"><img width="80%" alt="Hello, I'm Mohamed Khaled. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 I'm a self-taught passionate Back-end developer from Egypt 🇪🇬
